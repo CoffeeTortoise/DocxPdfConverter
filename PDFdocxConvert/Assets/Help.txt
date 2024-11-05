@@ -1,0 +1,2 @@
+Make sure that the pdf files are in the PdfFiles folder,
+the docx files are in the DocxFiles folder
